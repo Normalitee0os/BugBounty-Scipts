@@ -4,5 +4,5 @@ This is a repo that that is useful for security professional especially bug boun
 
 Currently It contains:
 
-Extract Endpoints from JS page and show it in a new tab ( Bookmarks/Extract_endpoints.js)
-Highlights top level navigation in Burp suite ( /burp-extension/Highlight Top level navigations/ )
+1. Extract Endpoints from JS page and show it in a new tab ( Bookmarks/Extract_endpoints.js)
+2. Highlights top level navigation in Burp suite ( /burp-extension/Highlight Top level navigations/ )
